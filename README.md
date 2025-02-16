@@ -5,8 +5,8 @@
 - <b>osTicket (Help Desk Ticketing System)</b> (https://github.com/DevonteMurphy/osTicket-prereqs) 
   - [osTicket: Prerequisites and Installation]
   - [osTicket: Post-Installation Configuration]
-    
- - <b>
+   
+  <b>
 
 <h2>🤳Connect with me:</h2>
 
